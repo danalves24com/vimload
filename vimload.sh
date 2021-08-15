@@ -1,5 +1,5 @@
 #!/bin/bash
-cp ~/vimload/$@ $HOME/.vimrc;
-cp ~/vimload/$@ $HOME/.config/nvim/init.vim;
+cp ~/vimload/configs/$@ $HOME/.vimrc;
+cp ~/vimload/configs/$@ $HOME/.config/nvim/init.vim;
 
 
