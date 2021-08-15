@@ -16,6 +16,7 @@ cd $HOME/vimload && bash install.sh && cd $HOME
 **!!WARNING - once you execute the command your current config will be lost!!**
 ```
 vimload [configuration]
+Ex: vimload preload1
 ```
 
 ## Contribution && Configuration
