@@ -23,3 +23,9 @@ to add your own config that you are currently using simply add it to the configs
 `cp ~/.vimrc $HOME/vimload/configs/[configuration_name]`
 
 To contribute to the repo setup a branch and contribute like you would
+
+## Current Configs
+### basic
+just a simple configuration, nothing crazy
+### preload1
+created by a config maker
